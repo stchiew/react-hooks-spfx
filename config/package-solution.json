@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-hooks-spfx-client-side-solution",
+    "id": "1649a998-5aa1-4dab-8e5a-d6aeb36a8ab6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/react-hooks-spfx.sppkg"
+  }
+}
